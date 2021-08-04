@@ -157,6 +157,9 @@ input[type="checkbox"] {
       border-radius: 10px;
       margin-left: 60px;
   }
+  .wrapper .box5 .slide{
+    flex-direction: column;
+  }
 }
 
 .wrapper {
